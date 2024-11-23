@@ -1,0 +1,2943 @@
+Fri Nov 22 19:06:46 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:06:46 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"PiracyStart","event_category":"Register","event_label1":"No","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","entry":"icon","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:06:46 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:06:46 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:06:46 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:06:46 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:06:46 2024 [WebLog::SoftDataReport] timestamp:1459385810
+Fri Nov 22 19:06:46 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:06:46 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "PiracyStart",
+		"event_category" : "Register",
+		"event_label1" : "No",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"start" : 
+	{
+		"entry" : "icon"
+	},
+	"ts" : 1732331206098
+}
+
+Fri Nov 22 19:06:46 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:06:46 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Register&ep.ts_action=PiracyStart&ep.ts_label1=No&en=Register&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:06:46 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Other&ep.ts_action=cInitFont&ep.ts_label1=NUll&en=Other&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:06:46 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:06:46 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:06:46 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:06:46 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:06:46 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:06:46 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"cInitFont","event_category":"Other","event_label1":"NUll","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:06:46 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:06:46 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:06:46 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:06:46 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:06:46 2024 [WebLog::SoftDataReport] timestamp:1459386438
+Fri Nov 22 19:06:46 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:06:46 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "cInitFont",
+		"event_category" : "Other",
+		"event_label1" : "NUll",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331206726
+}
+
+Fri Nov 22 19:06:46 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:06:46 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Other&ep.ts_action=TaskFinish&ep.ts_label1=0&en=Other&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:06:46 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:06:46 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:06:46 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:06:46 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:06:46 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:06:46 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"TaskFinish","event_category":"Other","event_label1":"0","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:06:46 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:06:46 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:06:46 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:06:46 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:06:46 2024 [WebLog::SoftDataReport] timestamp:1459386585
+Fri Nov 22 19:06:46 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:06:46 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "TaskFinish",
+		"event_category" : "Other",
+		"event_label1" : "0",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331206873
+}
+
+Fri Nov 22 19:06:46 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:06:47 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:06:47 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:06:47 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:06:47 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:07:00 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:07:00 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"gaCloseNumber","event_category":"Other","event_label1":"1","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:07:00 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:07:00 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:07:00 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:07:00 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:07:00 2024 [WebLog::SoftDataReport] timestamp:1459400060
+Fri Nov 22 19:07:00 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:07:00 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "gaCloseNumber",
+		"event_category" : "Other",
+		"event_label1" : "1",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331220348
+}
+
+Fri Nov 22 19:07:00 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:07:00 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:07:00 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:07:00 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:07:00 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:07:00 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:07:00 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"Initiated","event_category":"MainProcess","event_label1":"null","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:07:00 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:07:00 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:07:00 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:07:00 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:07:00 2024 [WebLog::SoftDataReport] timestamp:1459400203
+Fri Nov 22 19:07:00 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:07:00 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "Initiated",
+		"event_category" : "MainProcess",
+		"event_label1" : "null",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331220491
+}
+
+Fri Nov 22 19:07:00 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:07:00 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Other&ep.ts_action=gaCloseNumber&ep.ts_label1=1&en=Other&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:07:00 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:07:00 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:07:00 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:07:00 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:07:00 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=MainProcess&ep.ts_action=Initiated&ep.ts_label1=null&en=MainProcess&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10&ep.key_point=Initiated. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:07:02 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:07:02 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"Start","event_category":"CrashRate","event_label1":"null","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:07:02 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:07:02 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:07:02 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:07:02 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:07:02 2024 [WebLog::SoftDataReport] timestamp:1459401780
+Fri Nov 22 19:07:02 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:07:02 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "Start",
+		"event_category" : "CrashRate",
+		"event_label1" : "null",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331222068
+}
+
+Fri Nov 22 19:07:02 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:07:02 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:07:02 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:07:02 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:07:02 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:07:02 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:07:02 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"StartPage","event_category":"PC","event_label1":"16s","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:07:02 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:07:02 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:07:02 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:07:02 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:07:02 2024 [WebLog::SoftDataReport] timestamp:1459401926
+Fri Nov 22 19:07:02 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:07:02 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "StartPage",
+		"event_category" : "PC",
+		"event_label1" : "16s",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331222214
+}
+
+Fri Nov 22 19:07:02 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:07:02 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=CrashRate&ep.ts_action=Start&ep.ts_label1=null&en=CrashRate&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10&ep.key_point=Start. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:07:02 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:07:02 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:07:02 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:07:02 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:07:02 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=PC&ep.ts_action=StartPage&ep.ts_label1=16s&en=PC&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"Converter_Im_VideoInformation","event_category":"Converter","event_label1":"MP4","event_label2":"(100M, 500M]","event_label3":"(0, 10min]","event_label4":"h264","event_label5":"1620*1080","event_label6":"(1M, 2M]","event_label7":"aac","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] timestamp:1459405095
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "Converter_Im_VideoInformation",
+		"event_category" : "Converter",
+		"event_label1" : "MP4",
+		"event_label2" : "(100M, 500M]",
+		"event_label3" : "(0, 10min]",
+		"event_label4" : "h264",
+		"event_label5" : "1620*1080",
+		"event_label6" : "(1M, 2M]",
+		"event_label7" : "aac",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331225383
+}
+
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":"Converter","event_action":"CoreFuncStart","event_category":"BigdataBasic","event_type":"CoreFuncEvent","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] timestamp:1459405244
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : "Converter",
+		"event_action" : "CoreFuncStart",
+		"event_category" : "BigdataBasic",
+		"event_type" : "CoreFuncEvent",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331225532
+}
+
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:07:05 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Converter&ep.ts_action=Converter_Im_VideoInformation&ep.ts_label1=MP4&ep.ts_label2=(100M%2c%20500M%5d&ep.ts_label3=(0%2c%2010min%5d&ep.ts_label4=h264&ep.ts_label5=1620*1080&ep.ts_label6=(1M%2c%202M%5d&ep.ts_label7=aac&en=Converter&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":"Converter","event_action":"Converter_ImportComplete","event_category":"Converter","event_label1":"null","event_type":"CoreFuncEvent","func_step":1},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] timestamp:1459405396
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : "Converter",
+		"event_action" : "Converter_ImportComplete",
+		"event_category" : "Converter",
+		"event_label1" : "null",
+		"event_type" : "CoreFuncEvent",
+		"func_step" : 1
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331225684
+}
+
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:07:05 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=BigdataBasic&ep.ts_action=CoreFuncStart&en=BigdataBasic&ep.core_func_name=Converter. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":"Converter","event_action":"Converter_AddSuccessRate","event_category":"Converter","event_label1":"Successed","event_type":"CoreFuncEvent","func_step":2},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] timestamp:1459405537
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : "Converter",
+		"event_action" : "Converter_AddSuccessRate",
+		"event_category" : "Converter",
+		"event_label1" : "Successed",
+		"event_type" : "CoreFuncEvent",
+		"func_step" : 2
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331225825
+}
+
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:07:05 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Converter&ep.ts_action=Converter_ImportComplete&ep.ts_label1=null&en=Converter&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10&ep.core_func_name=Converter&ep.func_step=1. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"Converter_FileAdd","event_category":"Converter","event_label1":"RightClick","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] timestamp:1459405689
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "Converter_FileAdd",
+		"event_category" : "Converter",
+		"event_label1" : "RightClick",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331225977
+}
+
+Fri Nov 22 19:07:05 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:07:06 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Converter&ep.ts_action=Converter_AddSuccessRate&ep.ts_label1=Successed&en=Converter&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10&ep.core_func_name=Converter&ep.func_step=2. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:07:06 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Converter&ep.ts_action=Converter_FileAdd&ep.ts_label1=RightClick&en=Converter&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:07:06 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:07:06 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:07:06 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:07:06 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:07:11 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:07:11 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"ClickConvertSetUp","event_category":"Converter","event_label1":"Null","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:07:11 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:07:11 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:07:11 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:07:11 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:07:11 2024 [WebLog::SoftDataReport] timestamp:1459411134
+Fri Nov 22 19:07:11 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:07:11 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "ClickConvertSetUp",
+		"event_category" : "Converter",
+		"event_label1" : "Null",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331231422
+}
+
+Fri Nov 22 19:07:11 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:07:11 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:07:11 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:07:11 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:07:11 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:07:11 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Converter&ep.ts_action=ClickConvertSetUp&ep.ts_label1=Null&en=Converter&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:07:16 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:07:16 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"ConvertSetUp","event_category":"Converter","event_label1":"MP4","event_label2":"0","event_label3":"0","event_label4":"0","event_label5":"0","event_label6":"Original","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:07:16 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:07:16 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:07:16 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:07:16 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:07:16 2024 [WebLog::SoftDataReport] timestamp:1459416709
+Fri Nov 22 19:07:16 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:07:16 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "ConvertSetUp",
+		"event_category" : "Converter",
+		"event_label1" : "MP4",
+		"event_label2" : "0",
+		"event_label3" : "0",
+		"event_label4" : "0",
+		"event_label5" : "0",
+		"event_label6" : "Original",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331236997
+}
+
+Fri Nov 22 19:07:16 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:07:17 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Converter&ep.ts_action=ConvertSetUp&ep.ts_label1=MP4&ep.ts_label2=0&ep.ts_label3=0&ep.ts_label4=0&ep.ts_label5=0&ep.ts_label6=Original&en=Converter&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:07:17 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:07:17 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:07:17 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:07:17 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:07:28 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:07:28 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"ClickConvertSetUp","event_category":"Converter","event_label1":"Null","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:07:28 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:07:28 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:07:28 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:07:28 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:07:28 2024 [WebLog::SoftDataReport] timestamp:1459427893
+Fri Nov 22 19:07:28 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:07:28 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "ClickConvertSetUp",
+		"event_category" : "Converter",
+		"event_label1" : "Null",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331248181
+}
+
+Fri Nov 22 19:07:28 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:07:28 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:07:28 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:07:28 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:07:28 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:07:28 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Converter&ep.ts_action=ClickConvertSetUp&ep.ts_label1=Null&en=Converter&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:07:37 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:07:37 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"ConvertSetUp","event_category":"Converter","event_label1":"MP3","event_label2":"Null","event_label3":"Null","event_label4":"MP3","event_label5":"128","event_label6":"Original","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:07:37 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:07:37 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:07:37 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:07:37 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:07:37 2024 [WebLog::SoftDataReport] timestamp:1459436781
+Fri Nov 22 19:07:37 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:07:37 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "ConvertSetUp",
+		"event_category" : "Converter",
+		"event_label1" : "MP3",
+		"event_label2" : "Null",
+		"event_label3" : "Null",
+		"event_label4" : "MP3",
+		"event_label5" : "128",
+		"event_label6" : "Original",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331257069
+}
+
+Fri Nov 22 19:07:37 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:07:37 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:07:37 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:07:37 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:07:37 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:07:37 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Converter&ep.ts_action=ConvertSetUp&ep.ts_label1=MP3&ep.ts_label2=Null&ep.ts_label3=Null&ep.ts_label4=MP3&ep.ts_label5=128&ep.ts_label6=Original&en=Converter&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:07:48 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:07:48 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"ClickConvertSetUp","event_category":"Converter","event_label1":"Null","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:07:48 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:07:48 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:07:48 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:07:48 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:07:48 2024 [WebLog::SoftDataReport] timestamp:1459448316
+Fri Nov 22 19:07:48 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:07:48 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "ClickConvertSetUp",
+		"event_category" : "Converter",
+		"event_label1" : "Null",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331268604
+}
+
+Fri Nov 22 19:07:48 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:07:48 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:07:48 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:07:48 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:07:48 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:07:48 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Converter&ep.ts_action=ClickConvertSetUp&ep.ts_label1=Null&en=Converter&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:07:53 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:07:53 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"ConvertSetUp","event_category":"Converter","event_label1":"MP3","event_label2":"Null","event_label3":"Null","event_label4":"MP3","event_label5":"320","event_label6":"Original","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:07:53 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:07:53 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:07:53 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:07:53 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:07:53 2024 [WebLog::SoftDataReport] timestamp:1459452854
+Fri Nov 22 19:07:53 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:07:53 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "ConvertSetUp",
+		"event_category" : "Converter",
+		"event_label1" : "MP3",
+		"event_label2" : "Null",
+		"event_label3" : "Null",
+		"event_label4" : "MP3",
+		"event_label5" : "320",
+		"event_label6" : "Original",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331273142
+}
+
+Fri Nov 22 19:07:53 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:07:53 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:07:53 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:07:53 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:07:53 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:07:53 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Converter&ep.ts_action=ConvertSetUp&ep.ts_label1=MP3&ep.ts_label2=Null&ep.ts_label3=Null&ep.ts_label4=MP3&ep.ts_label5=320&ep.ts_label6=Original&en=Converter&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:07:57 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:07:57 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"TrackSelection","event_category":"Converter","event_label1":"KeepAllTrackOn","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:07:57 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:07:57 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:07:57 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:07:57 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:07:57 2024 [WebLog::SoftDataReport] timestamp:1459457433
+Fri Nov 22 19:07:57 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:07:57 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "TrackSelection",
+		"event_category" : "Converter",
+		"event_label1" : "KeepAllTrackOn",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331277721
+}
+
+Fri Nov 22 19:07:57 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:07:57 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:07:57 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:07:57 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:07:57 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:07:57 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:07:57 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"SubtitleSelection","event_category":"Converter","event_label1":"NoSubtitle","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:07:57 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:07:57 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:07:57 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:07:57 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:07:57 2024 [WebLog::SoftDataReport] timestamp:1459457570
+Fri Nov 22 19:07:57 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:07:57 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "SubtitleSelection",
+		"event_category" : "Converter",
+		"event_label1" : "NoSubtitle",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331277858
+}
+
+Fri Nov 22 19:07:57 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:07:57 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Converter&ep.ts_action=TrackSelection&ep.ts_label1=KeepAllTrackOn&en=Converter&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:07:57 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:07:57 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:07:58 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:07:58 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:07:58 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:07:58 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"ConvertAttributes","event_category":"Converter","event_label1":"audio_MP3_high/320/MP3/2","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:07:58 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:07:58 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:07:58 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:07:58 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:07:58 2024 [WebLog::SoftDataReport] timestamp:1459457713
+Fri Nov 22 19:07:58 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:07:58 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "ConvertAttributes",
+		"event_category" : "Converter",
+		"event_label1" : "audio_MP3_high/320/MP3/2",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331278001
+}
+
+Fri Nov 22 19:07:58 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:07:58 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Converter&ep.ts_action=SubtitleSelection&ep.ts_label1=NoSubtitle&en=Converter&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:07:58 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:07:58 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:07:58 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:07:58 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:07:58 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:07:58 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"PurchaseTips_Converter","event_category":"PurchaseTips","event_label1":"PurchaseTips_Convert","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:07:58 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:07:58 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:07:58 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:07:58 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:07:58 2024 [WebLog::SoftDataReport] timestamp:1459457866
+Fri Nov 22 19:07:58 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:07:58 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "PurchaseTips_Converter",
+		"event_category" : "PurchaseTips",
+		"event_label1" : "PurchaseTips_Convert",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331278154
+}
+
+Fri Nov 22 19:07:58 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:07:58 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Converter&ep.ts_action=ConvertAttributes&ep.ts_label1=audio_MP3_high%2f320%2fMP3%2f2&en=Converter&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:07:58 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:07:58 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:07:58 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:07:58 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:07:58 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=PurchaseTips&ep.ts_action=PurchaseTips_Converter&ep.ts_label1=PurchaseTips_Convert&en=PurchaseTips&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:08:01 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:08:01 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"Continue","event_category":"PurchasePop","event_label1":"PurchasePop_Convert","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:08:01 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:08:01 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:08:01 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:08:01 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:08:01 2024 [WebLog::SoftDataReport] timestamp:1459461498
+Fri Nov 22 19:08:01 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:08:01 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "Continue",
+		"event_category" : "PurchasePop",
+		"event_label1" : "PurchasePop_Convert",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331281786
+}
+
+Fri Nov 22 19:08:01 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:08:01 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:08:01 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:08:01 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:08:01 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:08:01 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=PurchasePop&ep.ts_action=Continue&ep.ts_label1=PurchasePop_Convert&en=PurchasePop&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"Converter_ConvertType","event_category":"Converter","event_label1":"VideoToAudio","event_label2":"MP4_1620*1080","event_label3":"MP3_320kbps","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] timestamp:1459463069
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "Converter_ConvertType",
+		"event_category" : "Converter",
+		"event_label1" : "VideoToAudio",
+		"event_label2" : "MP4_1620*1080",
+		"event_label3" : "MP3_320kbps",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331283357
+}
+
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":"Converter","event_action":"Converter_ConvertComplete","event_category":"Converter","event_label1":"null","event_type":"CoreFuncEvent","func_step":3},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] timestamp:1459463230
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : "Converter",
+		"event_action" : "Converter_ConvertComplete",
+		"event_category" : "Converter",
+		"event_label1" : "null",
+		"event_type" : "CoreFuncEvent",
+		"func_step" : 3
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331283518
+}
+
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:08:03 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Converter&ep.ts_action=Converter_ConvertType&ep.ts_label1=VideoToAudio&ep.ts_label2=MP4_1620*1080&ep.ts_label3=MP3_320kbps&en=Converter&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":"Converter","event_action":"Converter_ConvertSuccessRate","event_category":"Converter","event_label1":"Successed","event_type":"CoreFuncEvent","func_step":4},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] timestamp:1459463380
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : "Converter",
+		"event_action" : "Converter_ConvertSuccessRate",
+		"event_category" : "Converter",
+		"event_label1" : "Successed",
+		"event_type" : "CoreFuncEvent",
+		"func_step" : 4
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331283668
+}
+
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:08:03 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Converter&ep.ts_action=Converter_ConvertComplete&ep.ts_label1=null&en=Converter&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10&ep.core_func_name=Converter&ep.func_step=3. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":"Converter","event_action":"CoreFuncEnd","event_category":"BigdataBasic","event_type":"CoreFuncEvent","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] timestamp:1459463561
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : "Converter",
+		"event_action" : "CoreFuncEnd",
+		"event_category" : "BigdataBasic",
+		"event_type" : "CoreFuncEvent",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331283849
+}
+
+Fri Nov 22 19:08:03 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:08:03 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Converter&ep.ts_action=Converter_ConvertSuccessRate&ep.ts_label1=Successed&en=Converter&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10&ep.core_func_name=Converter&ep.func_step=4. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:08:04 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:08:04 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:08:04 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:08:04 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:08:04 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:08:04 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"Converter_Ex_AudioInformation","event_category":"Converter","event_label1":"MP3","event_label2":"(0, 10M]","event_label3":"(0, 1min]","event_label4":"mp3","event_label5":"44100Hz","event_label6":"320kbps","event_label7":"On(0, 5S]","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:08:04 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:08:04 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:08:04 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:08:04 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:08:04 2024 [WebLog::SoftDataReport] timestamp:1459463716
+Fri Nov 22 19:08:04 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:08:04 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "Converter_Ex_AudioInformation",
+		"event_category" : "Converter",
+		"event_label1" : "MP3",
+		"event_label2" : "(0, 10M]",
+		"event_label3" : "(0, 1min]",
+		"event_label4" : "mp3",
+		"event_label5" : "44100Hz",
+		"event_label6" : "320kbps",
+		"event_label7" : "On(0, 5S]",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331284004
+}
+
+Fri Nov 22 19:08:04 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:08:04 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=BigdataBasic&ep.ts_action=CoreFuncEnd&en=BigdataBasic&ep.core_func_name=Converter. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:08:04 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:08:04 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:08:04 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:08:04 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:08:04 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Converter&ep.ts_action=Converter_Ex_AudioInformation&ep.ts_label1=MP3&ep.ts_label2=(0%2c%2010M%5d&ep.ts_label3=(0%2c%201min%5d&ep.ts_label4=mp3&ep.ts_label5=44100Hz&ep.ts_label6=320kbps&ep.ts_label7=On(0%2c%205S%5d&en=Converter&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:08:09 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:08:09 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"Converter_FileOperations","event_category":"Converter","event_label1":"DeleteFile","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:08:09 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:08:09 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:08:09 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:08:09 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:08:09 2024 [WebLog::SoftDataReport] timestamp:1459469162
+Fri Nov 22 19:08:09 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:08:09 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "Converter_FileOperations",
+		"event_category" : "Converter",
+		"event_label1" : "DeleteFile",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331289450
+}
+
+Fri Nov 22 19:08:09 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:08:09 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:08:09 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:08:09 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:08:09 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:08:09 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Converter&ep.ts_action=Converter_FileOperations&ep.ts_label1=DeleteFile&en=Converter&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:08:16 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:08:16 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"Converter_FileOperations","event_category":"Converter","event_label1":"OpenFileLocation","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:08:16 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:08:16 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:08:16 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:08:16 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:08:16 2024 [WebLog::SoftDataReport] timestamp:1459476329
+Fri Nov 22 19:08:16 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:08:16 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "Converter_FileOperations",
+		"event_category" : "Converter",
+		"event_label1" : "OpenFileLocation",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331296617
+}
+
+Fri Nov 22 19:08:16 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:08:16 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:08:16 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:08:16 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:08:16 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:08:16 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Converter&ep.ts_action=Converter_FileOperations&ep.ts_label1=OpenFileLocation&en=Converter&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":"Converter","event_action":"CoreFuncStart","event_category":"BigdataBasic","event_type":"CoreFuncEvent","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] timestamp:1459542748
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : "Converter",
+		"event_action" : "CoreFuncStart",
+		"event_category" : "BigdataBasic",
+		"event_type" : "CoreFuncEvent",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331363036
+}
+
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":"Converter","event_action":"Converter_ImportComplete","event_category":"Converter","event_label1":"null","event_type":"CoreFuncEvent","func_step":1},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] timestamp:1459542894
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : "Converter",
+		"event_action" : "Converter_ImportComplete",
+		"event_category" : "Converter",
+		"event_label1" : "null",
+		"event_type" : "CoreFuncEvent",
+		"func_step" : 1
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331363182
+}
+
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:09:23 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=BigdataBasic&ep.ts_action=CoreFuncStart&en=BigdataBasic&ep.core_func_name=Converter. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"Converter_AddSuccessRate","event_category":"Converter","event_label1":"Failed_-1","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] timestamp:1459543053
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "Converter_AddSuccessRate",
+		"event_category" : "Converter",
+		"event_label1" : "Failed_-1",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331363341
+}
+
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:09:23 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Converter&ep.ts_action=Converter_ImportComplete&ep.ts_label1=null&en=Converter&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10&ep.core_func_name=Converter&ep.func_step=1. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"Converter_FileAdd","event_category":"Converter","event_label1":"RightClick","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] timestamp:1459543209
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "Converter_FileAdd",
+		"event_category" : "Converter",
+		"event_label1" : "RightClick",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331363497
+}
+
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:09:23 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Converter&ep.ts_action=Converter_AddSuccessRate&ep.ts_label1=Failed_-1&en=Converter&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:09:23 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:09:23 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Converter&ep.ts_action=Converter_FileAdd&ep.ts_label1=RightClick&en=Converter&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:09:36 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:09:36 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"DropFile","event_category":"Other","event_label1":"0","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:09:36 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:09:36 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:09:36 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:09:36 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:09:36 2024 [WebLog::SoftDataReport] timestamp:1459556562
+Fri Nov 22 19:09:36 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:09:36 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "DropFile",
+		"event_category" : "Other",
+		"event_label1" : "0",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331376850
+}
+
+Fri Nov 22 19:09:36 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:09:37 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Other&ep.ts_action=DropFile&ep.ts_label1=0&en=Other&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"DropFile","event_category":"Other","event_label1":"2","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] timestamp:1459556787
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "DropFile",
+		"event_category" : "Other",
+		"event_label1" : "2",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331377075
+}
+
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":"Converter","event_action":"CoreFuncStart","event_category":"BigdataBasic","event_type":"CoreFuncEvent","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] timestamp:1459556963
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : "Converter",
+		"event_action" : "CoreFuncStart",
+		"event_category" : "BigdataBasic",
+		"event_type" : "CoreFuncEvent",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331377251
+}
+
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:09:37 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Other&ep.ts_action=DropFile&ep.ts_label1=2&en=Other&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":"Converter","event_action":"Converter_ImportComplete","event_category":"Converter","event_label1":"null","event_type":"CoreFuncEvent","func_step":1},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] timestamp:1459557105
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : "Converter",
+		"event_action" : "Converter_ImportComplete",
+		"event_category" : "Converter",
+		"event_label1" : "null",
+		"event_type" : "CoreFuncEvent",
+		"func_step" : 1
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331377393
+}
+
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:09:37 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=BigdataBasic&ep.ts_action=CoreFuncStart&en=BigdataBasic&ep.core_func_name=Converter. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"Converter_AddSuccessRate","event_category":"Converter","event_label1":"Failed_-1","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] timestamp:1459557250
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "Converter_AddSuccessRate",
+		"event_category" : "Converter",
+		"event_label1" : "Failed_-1",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331377538
+}
+
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:09:37 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Converter&ep.ts_action=Converter_ImportComplete&ep.ts_label1=null&en=Converter&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10&ep.core_func_name=Converter&ep.func_step=1. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"Converter_FileAdd","event_category":"Converter","event_label1":"DragFile","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] timestamp:1459557391
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "Converter_FileAdd",
+		"event_category" : "Converter",
+		"event_label1" : "DragFile",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331377679
+}
+
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:09:37 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Converter&ep.ts_action=Converter_AddSuccessRate&ep.ts_label1=Failed_-1&en=Converter&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:09:37 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:09:37 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Converter&ep.ts_action=Converter_FileAdd&ep.ts_label1=DragFile&en=Converter&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:09:49 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:09:49 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"DropFile","event_category":"Other","event_label1":"0","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:09:49 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:09:49 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:09:49 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:09:49 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:09:49 2024 [WebLog::SoftDataReport] timestamp:1459568936
+Fri Nov 22 19:09:49 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:09:49 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "DropFile",
+		"event_category" : "Other",
+		"event_label1" : "0",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331389224
+}
+
+Fri Nov 22 19:09:49 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:09:49 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:09:49 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:09:49 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:09:49 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:09:49 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Other&ep.ts_action=DropFile&ep.ts_label1=0&en=Other&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:09:50 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:09:50 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"DropFile","event_category":"Other","event_label1":"1","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:09:50 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:09:50 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:09:50 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:09:50 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:09:50 2024 [WebLog::SoftDataReport] timestamp:1459569914
+Fri Nov 22 19:09:50 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:09:50 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "DropFile",
+		"event_category" : "Other",
+		"event_label1" : "1",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331390202
+}
+
+Fri Nov 22 19:09:50 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:09:50 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:09:50 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:09:50 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:09:50 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:09:50 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Other&ep.ts_action=DropFile&ep.ts_label1=1&en=Other&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"DropFile","event_category":"Other","event_label1":"0","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] timestamp:1459577718
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "DropFile",
+		"event_category" : "Other",
+		"event_label1" : "0",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331398006
+}
+
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:09:58 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Other&ep.ts_action=DropFile&ep.ts_label1=0&en=Other&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"DropFile","event_category":"Other","event_label1":"2","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] timestamp:1459578077
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "DropFile",
+		"event_category" : "Other",
+		"event_label1" : "2",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331398365
+}
+
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:09:58 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Other&ep.ts_action=DropFile&ep.ts_label1=2&en=Other&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":"Converter","event_action":"CoreFuncStart","event_category":"BigdataBasic","event_type":"CoreFuncEvent","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] timestamp:1459578313
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : "Converter",
+		"event_action" : "CoreFuncStart",
+		"event_category" : "BigdataBasic",
+		"event_type" : "CoreFuncEvent",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331398601
+}
+
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:09:58 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=BigdataBasic&ep.ts_action=CoreFuncStart&en=BigdataBasic&ep.core_func_name=Converter. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":"Converter","event_action":"Converter_ImportComplete","event_category":"Converter","event_label1":"null","event_type":"CoreFuncEvent","func_step":1},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] timestamp:1459578459
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : "Converter",
+		"event_action" : "Converter_ImportComplete",
+		"event_category" : "Converter",
+		"event_label1" : "null",
+		"event_type" : "CoreFuncEvent",
+		"func_step" : 1
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331398747
+}
+
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:09:58 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Converter&ep.ts_action=Converter_ImportComplete&ep.ts_label1=null&en=Converter&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10&ep.core_func_name=Converter&ep.func_step=1. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"Converter_AddSuccessRate","event_category":"Converter","event_label1":"Failed_-1","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] timestamp:1459578665
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "Converter_AddSuccessRate",
+		"event_category" : "Converter",
+		"event_label1" : "Failed_-1",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331398953
+}
+
+Fri Nov 22 19:09:58 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:09:59 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Converter&ep.ts_action=Converter_AddSuccessRate&ep.ts_label1=Failed_-1&en=Converter&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:09:59 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:09:59 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:09:59 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:09:59 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:09:59 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:09:59 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"Converter_FileAdd","event_category":"Converter","event_label1":"DragFile","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:09:59 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:09:59 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:09:59 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:09:59 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:09:59 2024 [WebLog::SoftDataReport] timestamp:1459578807
+Fri Nov 22 19:09:59 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:09:59 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "Converter_FileAdd",
+		"event_category" : "Converter",
+		"event_label1" : "DragFile",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331399095
+}
+
+Fri Nov 22 19:09:59 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:09:59 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:09:59 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:09:59 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:09:59 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:09:59 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Converter&ep.ts_action=Converter_FileAdd&ep.ts_label1=DragFile&en=Converter&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:10:03 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:10:03 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":"Converter","event_action":"CoreFuncStart","event_category":"BigdataBasic","event_type":"CoreFuncEvent","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:10:03 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:10:03 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:10:03 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:10:03 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:10:03 2024 [WebLog::SoftDataReport] timestamp:1459583256
+Fri Nov 22 19:10:03 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:10:03 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : "Converter",
+		"event_action" : "CoreFuncStart",
+		"event_category" : "BigdataBasic",
+		"event_type" : "CoreFuncEvent",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331403544
+}
+
+Fri Nov 22 19:10:03 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:10:03 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:10:03 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:10:03 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:10:03 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:10:03 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:10:03 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":"Converter","event_action":"Converter_ImportComplete","event_category":"Converter","event_label1":"null","event_type":"CoreFuncEvent","func_step":1},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:10:03 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:10:03 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:10:03 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:10:03 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:10:03 2024 [WebLog::SoftDataReport] timestamp:1459583413
+Fri Nov 22 19:10:03 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:10:03 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : "Converter",
+		"event_action" : "Converter_ImportComplete",
+		"event_category" : "Converter",
+		"event_label1" : "null",
+		"event_type" : "CoreFuncEvent",
+		"func_step" : 1
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331403701
+}
+
+Fri Nov 22 19:10:03 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:10:03 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=BigdataBasic&ep.ts_action=CoreFuncStart&en=BigdataBasic&ep.core_func_name=Converter. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:10:03 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:10:03 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:10:03 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:10:03 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:10:03 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:10:03 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"Converter_AddSuccessRate","event_category":"Converter","event_label1":"Failed_-1","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:10:03 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:10:03 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:10:03 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:10:03 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:10:03 2024 [WebLog::SoftDataReport] timestamp:1459583571
+Fri Nov 22 19:10:03 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:10:03 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "Converter_AddSuccessRate",
+		"event_category" : "Converter",
+		"event_label1" : "Failed_-1",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331403859
+}
+
+Fri Nov 22 19:10:03 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:10:03 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Converter&ep.ts_action=Converter_ImportComplete&ep.ts_label1=null&en=Converter&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10&ep.core_func_name=Converter&ep.func_step=1. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:10:04 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:10:04 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:10:04 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:10:04 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:10:04 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:10:04 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"Converter_FileAdd","event_category":"Converter","event_label1":"RightClick","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:10:04 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:10:04 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:10:04 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:10:04 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:10:04 2024 [WebLog::SoftDataReport] timestamp:1459583716
+Fri Nov 22 19:10:04 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:10:04 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "Converter_FileAdd",
+		"event_category" : "Converter",
+		"event_label1" : "RightClick",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331404004
+}
+
+Fri Nov 22 19:10:04 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:10:04 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Converter&ep.ts_action=Converter_AddSuccessRate&ep.ts_label1=Failed_-1&en=Converter&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:10:04 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:10:04 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:10:04 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:10:04 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:10:04 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=Converter&ep.ts_action=Converter_FileAdd&ep.ts_label1=RightClick&en=Converter&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:10:19 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=CrashRate&ep.ts_action=Close&ep.ts_label1=null&en=CrashRate&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10&ep.key_point=Close. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"Close","event_category":"CrashRate","event_label1":"null","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] timestamp:1459599093
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "Close",
+		"event_category" : "CrashRate",
+		"event_label1" : "null",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331419381
+}
+
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"FunctionUse_FunctionUse","event_category":"FunctionUse","event_label1":"1_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0","event_label2":"0_0_0_0_0_0","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] timestamp:1459599288
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "FunctionUse_FunctionUse",
+		"event_category" : "FunctionUse",
+		"event_label1" : "1_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0",
+		"event_label2" : "0_0_0_0_0_0",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331419576
+}
+
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] SoftDataReport begin
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] Arg jsonStr:{"actions":{"core_func_name":null,"event_action":"(0, 1min]","event_category":"StartTime","event_label1":"Null","event_type":"event","func_step":0},"brand":"PC","cross_end_id":"","email":"","is_login":0,"is_new":1,"is_vip":0,"model":"PC","phone":"","pid":"3954","product":"HitPawVideoConverter","product_version":"4.1.2","source_type":"product","user_id":""}
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] session id:74DDECA5C49E4eb5A22A60F309094D9E
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] url:https://analytics.afirstsoft.cn/collect
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] mac address:
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] uid:2d37b431cc5770dd814ed3323c70edf2
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] timestamp:1459599430
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] os version:Windows 10 x64
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] post data:{
+	"actions" : 
+	{
+		"core_func_name" : null,
+		"event_action" : "(0, 1min]",
+		"event_category" : "StartTime",
+		"event_label1" : "Null",
+		"event_type" : "event",
+		"func_step" : 0
+	},
+	"common" : 
+	{
+		"brand" : "PC",
+		"channel" : "",
+		"cross_end_id" : "",
+		"email" : "",
+		"is_login" : 0,
+		"is_new" : 1,
+		"is_vip" : 0,
+		"kit_type" : "",
+		"mac" : "",
+		"model" : "PC",
+		"os" : "Win",
+		"os_version" : "Windows 10 x64",
+		"phone" : "",
+		"pid" : "3954",
+		"product" : "HitPawVideoConverter",
+		"product_version" : "4.1.2",
+		"session_id" : "74DDECA5C49E4eb5A22A60F309094D9E",
+		"source_type" : "product",
+		"tools_lang" : "",
+		"tools_version" : "",
+		"uid" : "2d37b431cc5770dd814ed3323c70edf2",
+		"user_id" : ""
+	},
+	"ts" : 1732331419718
+}
+
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] post header:Content-Type:application/json; charset=utf-8
+Fri Nov 22 19:10:19 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=FunctionUse&ep.ts_action=FunctionUse_FunctionUse&ep.ts_label1=1_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0&ep.ts_label2=0_0_0_0_0_0&en=FunctionUse&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] post result:0
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] response code:200
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] response content:
+Fri Nov 22 19:10:19 2024 [WebLog::SoftDataReport] SoftDataReport end
+Fri Nov 22 19:10:19 2024 [SoftwareGT4] POSTURL:https://www.google-analytics.com/g/collect?v=2&cid=5EBCFF6D3C52A1933DB4&tid=G-9GH3KYYECH&ep.ts_productname=HitPawVideoConverter&ep.ts_productversion=4.1.2&ep.ts_category=StartTime&ep.ts_action=(0%2c%201min%5d&ep.ts_label1=Null&en=StartTime&ep.cd1=4.1.2&ep.cd2=No&ep.cd3=PPC&ep.cd4=en&ep.cd5=HitPaw&ep.cd6=Windows10. The return value of[client.Post()] is  CURLE_OK(0). The return value of[client.GetResponseCode())] is 204
+
